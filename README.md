@@ -16,3 +16,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
+![mock up dashboard_atliq grands](https://user-images.githubusercontent.com/109192342/219543163-46cb02a3-3fa7-4ceb-a8e2-09780c99d3ec.jpg)
