@@ -21,6 +21,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 ![model](https://user-images.githubusercontent.com/109192342/219546168-45d83376-d9c2-4def-a6a2-06d4d08814a4.jpg)
 
-
+## Revenue Insight Dashboard
 
 
