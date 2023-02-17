@@ -19,8 +19,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![mock up dashboard_atliq grands](https://user-images.githubusercontent.com/109192342/219543163-46cb02a3-3fa7-4ceb-a8e2-09780c99d3ec.jpg)
 
 ## Data Model
-![model](https://user-images.githubusercontent.com/109192342/219546168-45d83376-d9c2-4def-a6a2-06d4d08814a4.jpg)
+![model](https://user-images.githubusercontent.com/109192342/219551921-817ef362-0d98-46ea-86f9-0063d87208f3.jpg)
 
 ## Revenue Insight Dashboard
+![dashboard](https://user-images.githubusercontent.com/109192342/219552528-3ff1ac15-3bf7-4229-a6e4-1f3b836d9b0d.jpg)
 
+## Learning from this project
+* 
 
