@@ -20,4 +20,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 ## Data Model
-xyxneoifierovovrr
+![star_schema](https://user-images.githubusercontent.com/109192342/219543867-df905e30-b746-49eb-b697-10e5115d6a59.jpg)
+
