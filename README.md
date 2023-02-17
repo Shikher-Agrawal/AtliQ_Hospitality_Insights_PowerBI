@@ -27,5 +27,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Learning from this project
 * Learn new DAX functions: DATEDIFF, HASONEFILTER, SELECTEDVALUE
 * Learn key terms which are very important in this industry like, RevPAR (Revenue Per Available Room), Occupancy %, DBRN (Daily Booked Room Nights), Realisation %.  These are key metrices while building a dasboard. 
+* Tried using pastel-blue-vignette-colour palette and stick with that throughout the dashboard.
+* Learn how to use icons for showing increement, decrement and for no change.
+
+## Imprtant insights from the dashboard
 * 
 
