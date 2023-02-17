@@ -1,7 +1,7 @@
 # AtliQ Hospitality Analysis - Power BI
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the [challenge] (https://codebasics.io/event/codebasics-resume-project-challenge)     
+Link to the [challenge](https://codebasics.io/event/codebasics-resume-project-challenge)    
 Link to Interactive Dashboard
 
 ## Project Statement
