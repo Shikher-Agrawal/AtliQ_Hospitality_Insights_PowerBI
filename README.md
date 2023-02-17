@@ -25,5 +25,5 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![dashboard](https://user-images.githubusercontent.com/109192342/219552528-3ff1ac15-3bf7-4229-a6e4-1f3b836d9b0d.jpg)
 
 ## Learning from this project
-* Learn new DAX functions: ### DATEDIFF
+* Learn new DAX functions: ## DATEDIFF
 
