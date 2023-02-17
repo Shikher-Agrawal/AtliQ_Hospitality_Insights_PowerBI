@@ -22,4 +22,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ![star_schema](https://user-images.githubusercontent.com/109192342/219543867-df905e30-b746-49eb-b697-10e5115d6a59.jpg)
 
 ## Revenue Insights Dashboard
-![dash](https://user-images.githubusercontent.com/109192342/219545037-5d3d35d1-afa7-456c-be87-b0a93f5b31b6.jpg)
+
